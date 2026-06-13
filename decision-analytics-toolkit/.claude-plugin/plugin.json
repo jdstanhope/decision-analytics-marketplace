@@ -1,0 +1,20 @@
+{
+  "name": "decision-analytics-toolkit",
+  "version": "0.1.0",
+  "description": "A toolkit of generic skills for better decisions: structured analytic techniques, decision analysis, modeling & simulation, and data analysis. Designed for individuals and small-to-medium teams working through ambiguous, high-stakes, or quantitative problems.",
+  "author": {
+    "name": "John"
+  },
+  "keywords": [
+    "decision-making",
+    "analysis",
+    "structured-analytic-techniques",
+    "monte-carlo",
+    "simulation",
+    "decision-analysis",
+    "data-analysis",
+    "forecasting",
+    "risk"
+  ],
+  "license": "MIT"
+}

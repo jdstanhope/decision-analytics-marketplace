@@ -1,0 +1,20 @@
+{
+  "name": "decision-analytics",
+  "owner": {
+    "name": "John",
+    "email": "jdstanhope@gmail.com"
+  },
+  "metadata": {
+    "description": "Generic skills for better decisions: structured analytic techniques, decision analysis, modeling & simulation, and data analysis.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "decision-analytics-toolkit",
+      "source": "./decision-analytics-toolkit",
+      "description": "Four general-purpose skills for individuals and small teams: structured analytic techniques (ACH, premortem, key assumptions, red team), decision analysis (weighted scoring, decision trees, expected value), modeling & simulation (Monte Carlo, sensitivity, forecasting), and data analysis (EDA, hypothesis testing, regression).",
+      "version": "0.1.0"
+    }
+  ],
+  "license": "MIT"
+}
