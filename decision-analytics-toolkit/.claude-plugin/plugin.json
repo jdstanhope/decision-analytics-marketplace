@@ -1,7 +1,7 @@
 {
   "name": "decision-analytics-toolkit",
-  "version": "0.1.0",
-  "description": "A toolkit of generic skills for better decisions: structured analytic techniques, decision analysis, modeling & simulation, and data analysis. Designed for individuals and small-to-medium teams working through ambiguous, high-stakes, or quantitative problems.",
+  "version": "0.2.0",
+  "description": "Five generic skills for better decisions: structured analytic techniques, decision analysis, modeling & simulation, data analysis, and decision review (tracking whether estimates and assumptions held up over time). For individuals and small-to-medium teams.",
   "author": {
     "name": "John"
   },
@@ -15,6 +15,5 @@
     "data-analysis",
     "forecasting",
     "risk"
-  ],
-  "license": "MIT"
+  ]
 }

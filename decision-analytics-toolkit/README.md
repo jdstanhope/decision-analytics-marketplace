@@ -1,6 +1,6 @@
 # Decision Analytics Toolkit
 
-A set of four general-purpose skills that help individuals and small-to-medium teams
+A set of five general-purpose skills that help individuals and small-to-medium teams
 think more clearly and decide more rigorously. The skills are deliberately generic so
 they apply across domains — business strategy, product, hiring, policy, personal
 decisions, research, operations, and more.
@@ -11,6 +11,7 @@ decisions, research, operations, and more.
 | **Decision Analysis** | Choose between defined options against multiple criteria | Weighted scoring (MCDA), Pugh matrix, decision trees, expected value, value of information |
 | **Modeling & Simulation** | Quantify uncertainty and explore "what if" | Monte Carlo simulation, sensitivity / tornado analysis, scenario planning, simple forecasting |
 | **Data Analysis** | Understand a dataset and test claims about it | Exploratory data analysis, hypothesis testing, correlation & regression, visualization |
+| **Decision Review** | Check later whether estimates and assumptions held up | Decision journaling, interval-coverage & Brier scoring, assumption & tripwire tracking, cross-decision calibration |
 
 ## How the skills work together
 
@@ -24,6 +25,9 @@ These methods chain naturally. A typical end-to-end flow:
    data instead of guessing.
 4. **Decide** with *Decision Analysis* — score the options against weighted criteria or
    compute the expected value of each path.
+5. **Close the loop** with *Decision Review* — record the assumptions and predicted ranges,
+   then revisit later (optionally on a schedule or your calendar) to check whether they held
+   and whether the reasoning was sound, building calibration over time.
 
 Each skill works standalone too — invoke whichever matches the problem in front of you.
 

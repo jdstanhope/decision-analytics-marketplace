@@ -60,4 +60,3 @@ decision-analytics-marketplace/
 
 Released under the [MIT License](./LICENSE) — permissive, BSD-like: anyone may use,
 modify, and redistribute it, with attribution and no warranty.
-
