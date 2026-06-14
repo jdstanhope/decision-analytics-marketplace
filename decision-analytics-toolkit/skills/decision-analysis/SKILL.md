@@ -27,6 +27,11 @@ Two families of method, picked by whether outcomes are certain:
 - **Choice under uncertainty** (outcomes branch on chance): decision trees, expected
   value, value of information. *"Should we launch now or run a test first? Build or buy?"*
 
+> **Coaching mode.** When the user wants to be facilitated through the decision rather than
+> handed an answer, the criteria, weights, and options are *theirs* — elicit them, don't
+> impose them. Use the decision-coach skill to run that staged, user-led process; this
+> skill then provides the scoring engine at the choice stage.
+
 ## How to use this skill
 
 1. **Frame the decision** before scoring anything. Nail down: the actual decision being

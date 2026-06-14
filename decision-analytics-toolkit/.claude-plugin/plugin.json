@@ -1,7 +1,7 @@
 {
   "name": "decision-analytics-toolkit",
-  "version": "0.2.0",
-  "description": "Five generic skills for better decisions: structured analytic techniques, decision analysis, modeling & simulation, data analysis, and decision review (tracking whether estimates and assumptions held up over time). For individuals and small-to-medium teams.",
+  "version": "0.3.0",
+  "description": "Six generic skills for better decisions: a decision coach that facilitates a deliberate, user-led process over time, plus structured analytic techniques, decision analysis, modeling & simulation, data analysis, and decision review. For individuals and small-to-medium teams.",
   "author": {
     "name": "John"
   },
@@ -14,6 +14,9 @@
     "decision-analysis",
     "data-analysis",
     "forecasting",
-    "risk"
+    "risk",
+    "decision-coaching",
+    "facilitation",
+    "indicators"
   ]
 }

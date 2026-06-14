@@ -1,17 +1,23 @@
 # Decision Analytics Toolkit
 
-A set of five general-purpose skills that help individuals and small-to-medium teams
+A set of six general-purpose skills that help individuals and small-to-medium teams
 think more clearly and decide more rigorously. The skills are deliberately generic so
 they apply across domains — business strategy, product, hiring, policy, personal
 decisions, research, operations, and more.
 
 | Skill | Use it when you need to… | Core methods |
 |-------|--------------------------|--------------|
+| **Decision Coach** | Be facilitated through an important decision over time | User-led problem framing, measurable success criteria, option generation, indicators to watch, monitoring window, scheduled check-ins |
 | **Structured Analytic Techniques** | Reduce bias and reason carefully under uncertainty | Analysis of Competing Hypotheses (ACH), Key Assumptions Check, Premortem, Devil's Advocacy / Red Team, Indicators & Warnings, Quadrant Crunching |
 | **Decision Analysis** | Choose between defined options against multiple criteria | Weighted scoring (MCDA), Pugh matrix, decision trees, expected value, value of information |
 | **Modeling & Simulation** | Quantify uncertainty and explore "what if" | Monte Carlo simulation, sensitivity / tornado analysis, scenario planning, simple forecasting |
 | **Data Analysis** | Understand a dataset and test claims about it | Exploratory data analysis, hypothesis testing, correlation & regression, visualization |
 | **Decision Review** | Check later whether estimates and assumptions held up | Decision journaling, interval-coverage & Brier scoring, assumption & tripwire tracking, cross-decision calibration |
+
+**Decision Coach** is the conductor for high-stakes, deliberate decisions: it keeps the
+user in charge of the thinking and pulls in the other skills as tools at each stage. The
+indicators it helps you define for *choosing* an option become the metrics that *evaluate*
+that option later via Decision Review — one continuous loop from framing to follow-up.
 
 ## How the skills work together
 

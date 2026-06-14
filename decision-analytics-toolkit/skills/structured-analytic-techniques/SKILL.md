@@ -24,6 +24,11 @@ The core idea: **don't trust a conclusion that lives only in someone's head.** L
 reasoning out on the table — the hypotheses, the evidence, the assumptions, the ways it
 could fail — so that flaws become visible.
 
+> When facilitating a user-led decision (see the decision-coach skill), these techniques
+> are the coach's toolkit: premortem and devil's advocacy to stress-test the user's
+> options, and Indicators & Warnings to define the signposts they will watch before
+> choosing — the same signposts that evaluate the choice later.
+
 ## How to use this skill
 
 1. **Diagnose what kind of thinking trap the user is in**, then pick the matching
